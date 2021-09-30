@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\NurlanElectronic\NurlanElectronic\bin\Debug\netcoreapp3.1\NurlanElectronic.exe
+C:\Users\ASUS\source\repos\NurlanElectronic\NurlanElectronic\bin\Debug\netcoreapp3.1\NurlanElectronic.deps.json
+C:\Users\ASUS\source\repos\NurlanElectronic\NurlanElectronic\bin\Debug\netcoreapp3.1\NurlanElectronic.runtimeconfig.json
+C:\Users\ASUS\source\repos\NurlanElectronic\NurlanElectronic\bin\Debug\netcoreapp3.1\NurlanElectronic.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\NurlanElectronic\NurlanElectronic\bin\Debug\netcoreapp3.1\NurlanElectronic.dll
+C:\Users\ASUS\source\repos\NurlanElectronic\NurlanElectronic\bin\Debug\netcoreapp3.1\NurlanElectronic.pdb
+C:\Users\ASUS\source\repos\NurlanElectronic\NurlanElectronic\obj\Debug\netcoreapp3.1\NurlanElectronic.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\NurlanElectronic\NurlanElectronic\obj\Debug\netcoreapp3.1\NurlanElectronic.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\NurlanElectronic\NurlanElectronic\obj\Debug\netcoreapp3.1\NurlanElectronic.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\NurlanElectronic\NurlanElectronic\obj\Debug\netcoreapp3.1\NurlanElectronic.dll
+C:\Users\ASUS\source\repos\NurlanElectronic\NurlanElectronic\obj\Debug\netcoreapp3.1\NurlanElectronic.pdb
+C:\Users\ASUS\source\repos\NurlanElectronic\NurlanElectronic\obj\Debug\netcoreapp3.1\NurlanElectronic.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\NurlanElectronic\NurlanElectronic\obj\Debug\netcoreapp3.1\NurlanElectronic.csproj.AssemblyReference.cache
